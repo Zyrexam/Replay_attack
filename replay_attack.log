@@ -1,0 +1,160 @@
+2025-03-07 22:49:24,321 - Packet rejected: Timestamp outside valid window
+    Source: 10.23.25.222 -> Destination: 142.250.194.174
+    Timestamp: 1741363645.295627
+
+2025-03-07 22:49:24,321 - Packet rejected: Timestamp outside valid window
+    Source: 142.250.194.174 -> Destination: 10.23.25.222
+    Timestamp: 1741363645.340888
+
+2025-03-07 22:49:24,321 - Packet rejected: Timestamp outside valid window
+    Source: 10.23.25.222 -> Destination: 142.250.194.174
+    Timestamp: 1741363646.297094
+
+2025-03-07 22:49:24,321 - Packet rejected: Timestamp outside valid window
+    Source: 142.250.194.174 -> Destination: 10.23.25.222
+    Timestamp: 1741363646.340939
+
+2025-03-07 22:49:24,321 - Packet rejected: Timestamp outside valid window
+    Source: 10.23.25.222 -> Destination: 142.250.194.174
+    Timestamp: 1741363647.298434
+
+2025-03-07 22:49:24,321 - Packet rejected: Timestamp outside valid window
+    Source: 142.250.194.174 -> Destination: 10.23.25.222
+    Timestamp: 1741363647.34361
+
+2025-03-07 22:49:24,322 - Packet rejected: Timestamp outside valid window
+    Source: 10.23.25.222 -> Destination: 142.250.194.174
+    Timestamp: 1741363648.299896
+
+2025-03-07 22:49:24,322 - Packet rejected: Timestamp outside valid window
+    Source: 142.250.194.174 -> Destination: 10.23.25.222
+    Timestamp: 1741363648.343399
+
+2025-03-07 22:49:24,322 - Packet rejected: Timestamp outside valid window
+    Source: 10.23.25.222 -> Destination: 142.250.194.174
+    Timestamp: 1741363649.30168
+
+2025-03-07 22:49:24,322 - Packet rejected: Timestamp outside valid window
+    Source: 142.250.194.174 -> Destination: 10.23.25.222
+    Timestamp: 1741363649.345275
+
+2025-03-07 22:49:24,322 - Packet rejected: Timestamp outside valid window
+    Source: 10.23.25.222 -> Destination: 142.250.194.174
+    Timestamp: 1741363650.303737
+
+2025-03-07 22:49:24,322 - Packet rejected: Timestamp outside valid window
+    Source: 142.250.194.174 -> Destination: 10.23.25.222
+    Timestamp: 1741363650.347555
+
+2025-03-07 22:49:24,322 - Packet rejected: Timestamp outside valid window
+    Source: 10.23.25.222 -> Destination: 142.250.194.174
+    Timestamp: 1741363651.303916
+
+2025-03-07 22:49:24,322 - Packet rejected: Timestamp outside valid window
+    Source: 142.250.194.174 -> Destination: 10.23.25.222
+    Timestamp: 1741363651.347966
+
+2025-03-07 22:49:24,322 - Packet rejected: Timestamp outside valid window
+    Source: 10.23.25.222 -> Destination: 142.250.194.174
+    Timestamp: 1741363652.305447
+
+2025-03-07 22:49:24,322 - Packet rejected: Timestamp outside valid window
+    Source: 142.250.194.174 -> Destination: 10.23.25.222
+    Timestamp: 1741363652.368734
+
+2025-03-07 22:49:24,322 - Packet rejected: Timestamp outside valid window
+    Source: 10.23.25.222 -> Destination: 142.250.194.174
+    Timestamp: 1741363653.306978
+
+2025-03-07 22:49:24,322 - Packet rejected: Timestamp outside valid window
+    Source: 142.250.194.174 -> Destination: 10.23.25.222
+    Timestamp: 1741363653.351008
+
+2025-03-07 22:49:24,322 - Packet rejected: Timestamp outside valid window
+    Source: 10.23.25.222 -> Destination: 142.250.194.174
+    Timestamp: 1741363654.308011
+
+2025-03-07 22:49:24,323 - Packet rejected: Timestamp outside valid window
+    Source: 142.250.194.174 -> Destination: 10.23.25.222
+    Timestamp: 1741363654.351497
+
+2025-03-07 22:51:09,244 - Packet rejected: Timestamp outside valid window
+    Source: 10.23.25.222 -> Destination: 142.250.194.174
+    Timestamp: 1741363645.295627
+
+2025-03-07 22:51:09,245 - Packet rejected: Timestamp outside valid window
+    Source: 142.250.194.174 -> Destination: 10.23.25.222
+    Timestamp: 1741363645.340888
+
+2025-03-07 22:51:09,245 - Packet rejected: Timestamp outside valid window
+    Source: 10.23.25.222 -> Destination: 142.250.194.174
+    Timestamp: 1741363646.297094
+
+2025-03-07 22:51:09,245 - Packet rejected: Timestamp outside valid window
+    Source: 142.250.194.174 -> Destination: 10.23.25.222
+    Timestamp: 1741363646.340939
+
+2025-03-07 22:51:09,245 - Packet rejected: Timestamp outside valid window
+    Source: 10.23.25.222 -> Destination: 142.250.194.174
+    Timestamp: 1741363647.298434
+
+2025-03-07 22:51:09,245 - Packet rejected: Timestamp outside valid window
+    Source: 142.250.194.174 -> Destination: 10.23.25.222
+    Timestamp: 1741363647.34361
+
+2025-03-07 22:51:09,245 - Packet rejected: Timestamp outside valid window
+    Source: 10.23.25.222 -> Destination: 142.250.194.174
+    Timestamp: 1741363648.299896
+
+2025-03-07 22:51:09,245 - Packet rejected: Timestamp outside valid window
+    Source: 142.250.194.174 -> Destination: 10.23.25.222
+    Timestamp: 1741363648.343399
+
+2025-03-07 22:51:09,245 - Packet rejected: Timestamp outside valid window
+    Source: 10.23.25.222 -> Destination: 142.250.194.174
+    Timestamp: 1741363649.30168
+
+2025-03-07 22:51:09,246 - Packet rejected: Timestamp outside valid window
+    Source: 142.250.194.174 -> Destination: 10.23.25.222
+    Timestamp: 1741363649.345275
+
+2025-03-07 22:51:09,246 - Packet rejected: Timestamp outside valid window
+    Source: 10.23.25.222 -> Destination: 142.250.194.174
+    Timestamp: 1741363650.303737
+
+2025-03-07 22:51:09,246 - Packet rejected: Timestamp outside valid window
+    Source: 142.250.194.174 -> Destination: 10.23.25.222
+    Timestamp: 1741363650.347555
+
+2025-03-07 22:51:09,246 - Packet rejected: Timestamp outside valid window
+    Source: 10.23.25.222 -> Destination: 142.250.194.174
+    Timestamp: 1741363651.303916
+
+2025-03-07 22:51:09,246 - Packet rejected: Timestamp outside valid window
+    Source: 142.250.194.174 -> Destination: 10.23.25.222
+    Timestamp: 1741363651.347966
+
+2025-03-07 22:51:09,246 - Packet rejected: Timestamp outside valid window
+    Source: 10.23.25.222 -> Destination: 142.250.194.174
+    Timestamp: 1741363652.305447
+
+2025-03-07 22:51:09,246 - Packet rejected: Timestamp outside valid window
+    Source: 142.250.194.174 -> Destination: 10.23.25.222
+    Timestamp: 1741363652.368734
+
+2025-03-07 22:51:09,246 - Packet rejected: Timestamp outside valid window
+    Source: 10.23.25.222 -> Destination: 142.250.194.174
+    Timestamp: 1741363653.306978
+
+2025-03-07 22:51:09,247 - Packet rejected: Timestamp outside valid window
+    Source: 142.250.194.174 -> Destination: 10.23.25.222
+    Timestamp: 1741363653.351008
+
+2025-03-07 22:51:09,247 - Packet rejected: Timestamp outside valid window
+    Source: 10.23.25.222 -> Destination: 142.250.194.174
+    Timestamp: 1741363654.308011
+
+2025-03-07 22:51:09,247 - Packet rejected: Timestamp outside valid window
+    Source: 142.250.194.174 -> Destination: 10.23.25.222
+    Timestamp: 1741363654.351497
+
