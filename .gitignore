@@ -1,0 +1,9 @@
+# Ignore all image files
+*.png
+
+# Ignore image files in specific directories (optional)
+images/*.png
+
+# Ignore all files in a specific directory (optional)
+/images/
+/screenshots/
