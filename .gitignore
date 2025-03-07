@@ -7,3 +7,7 @@ images/*.png
 # Ignore all files in a specific directory (optional)
 /images/
 /screenshots/
+
+
+# Ignore log files
+replay_attack.log
